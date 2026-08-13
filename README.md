@@ -1,5 +1,10 @@
 # attachment-native-kit
 
+> **Frozen after native-platform import.** The accepted source history now lives
+> under `crates/services/attachment` in `delysis/native-platform`. This
+> repository is read-only and remains unarchived for two stable platform
+> releases before retirement.
+
 A safe-Rust attachment ingestion boundary for native AI applications.
 
 It turns caller-provided bytes into a content-addressed object graph, bounded
